@@ -1,7 +1,8 @@
 init golang project
+web interface (golang runs on server)
 tree query parser
 build base plugin
 
+pure web interface (compile golang to asm.js)
 built-in error reporting if a query does not match or returns wrong result
-web interface (compile golang to asm.js)
 Android app

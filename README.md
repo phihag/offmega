@@ -5,6 +5,8 @@ Typical queries include:
 Planned queries include:
 
  - 20°F in °C
+ - 469.5 Knots in km/h
+ - 469.5 Knots in m/s
  - Average body temperature
  - How many liters in 1 gallon
  - time now in LA
