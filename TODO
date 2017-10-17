@@ -1,0 +1,7 @@
+init golang project
+tree query parser
+build base plugin
+
+built-in error reporting if a query does not match or returns wrong result
+web interface (compile golang to asm.js)
+Android app
